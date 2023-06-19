@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypted Text Editor", "Encrypted Text Editor\Encrypted Text Editor.csproj", "{C5590079-C6B9-43E4-8827-D9092B9FF7EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED274C7D-22C7-4226-8C32-CC55D02E6C39}"
+	ProjectSection(SolutionItems) = preProject
+		ColorPallette.png = ColorPallette.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5590079-C6B9-43E4-8827-D9092B9FF7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5590079-C6B9-43E4-8827-D9092B9FF7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5590079-C6B9-43E4-8827-D9092B9FF7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5590079-C6B9-43E4-8827-D9092B9FF7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1964ABBD-1298-4476-9469-E07BF57C4FAB}
+	EndGlobalSection
+EndGlobal
